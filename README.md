@@ -1,1 +1,0 @@
-# Challenge-Telecom-X-analise-de-evasao-de-clientes-_P2
