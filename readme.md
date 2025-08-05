@@ -78,5 +78,6 @@ Com base nos insights e na capacidade preditiva do modelo, as seguintes ações 
 
 ## ✍️ Autor(a)
 
-* [Seu Nome Completo]
-* [Seu LinkedIn ou Outro Contato Opcional]
+* [Antonio Cézar Aversa]
+
+* [https://www.linkedin.com/in/antonio-c%C3%A9zar-aversa-874144357/]
