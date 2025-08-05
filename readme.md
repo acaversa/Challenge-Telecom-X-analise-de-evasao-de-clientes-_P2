@@ -78,6 +78,7 @@ Com base nos insights e na capacidade preditiva do modelo, as seguintes ações 
 
 ## ✍️ Autor(a)
 
-* [Antonio Cézar Aversa]
+* Antonio Cézar Aversa
 
-* [https://www.linkedin.com/in/antonio-c%C3%A9zar-aversa-874144357/]
+* https://www.linkedin.com/in/antonio-c%C3%A9zar-aversa-874144357/
+
